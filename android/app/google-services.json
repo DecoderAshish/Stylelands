@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "457012023652",
+    "project_id": "stylelands-global",
+    "storage_bucket": "stylelands-global.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457012023652:android:1efb835b9dfd1568fb6a71",
+        "android_client_info": {
+          "package_name": "com.stylelands.salonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457012023652-5q9k6j4e4je7qt7qphkc5tbgi963v031.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylelands.salonapp",
+            "certificate_hash": "cac0d7dc455e15f3b2cf5b89ef13d7fd0f886133"
+          }
+        },
+        {
+          "client_id": "457012023652-d9iapvu5bbqoadnleeqg41etnghd8khl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_5u055-VwexkUR8J-VpOc1M7Yj-glJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457012023652-d9iapvu5bbqoadnleeqg41etnghd8khl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457012023652-1g6d2heku4oabejejmgaai25kirup1cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stylelands.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457012023652:android:16afc84c90e4fe34fb6a71",
+        "android_client_info": {
+          "package_name": "com.stylelands.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457012023652-as5m3vpekb2tcg4b4th234marfqa5da9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylelands.userapp",
+            "certificate_hash": "8fc6218c73c4b1956dedb0c2330c1e75e915c557"
+          }
+        },
+        {
+          "client_id": "457012023652-d9iapvu5bbqoadnleeqg41etnghd8khl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_5u055-VwexkUR8J-VpOc1M7Yj-glJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457012023652-d9iapvu5bbqoadnleeqg41etnghd8khl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457012023652-1g6d2heku4oabejejmgaai25kirup1cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stylelands.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
